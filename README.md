@@ -1,4 +1,4 @@
-# 🌐 Blockchain Crowdfunding DApp
+# 🌐 Blockchain Crowdfunding DApp 
 
 Crowdfunding Platform บน **Ethereum Blockchain**  
 พัฒนาเพื่อเป็นระบบระดมทุนแบบโปร่งใส ตรวจสอบได้ และไร้ตัวกลาง โดยใช้ Smart Contract ควบคุมทุกธุรกรรม
@@ -59,9 +59,7 @@ smart contract ใช้ **mapping + id system**
 
 ### ✔ เชื่อมต่อ MetaMask (Web3)
 รองรับ:
-- MetaMask Desktop  
 - Sepolia Testnet  
-- Ethereum Provider (window.ethereum)
 
 ---
 
